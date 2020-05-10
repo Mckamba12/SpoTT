@@ -1,0 +1,2 @@
+# SpoTT
+Social gathering geographical locator with realtime environment statistics. The main benefit of searching SpoT by the map is that you can see the total price including the SpoT cleaning fee and it is much easier to visualize where you are in the city. If you are looking to plan a trip or activity around a select few venues such as a stadium, cinema and even nightclub then the map view on SpoT is the ideal preference. 
